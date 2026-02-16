@@ -16,10 +16,21 @@ Número de participantes: **25 pessoas**
 
 Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/DotNetSP/vs-code-dev-days-2025-09**
 
-
 Informações sobre o evento em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
 
-25 participantes
+---
+
+Apresentações que aconteceram durante o evento:
+
+_# Comece a utilizar o GitHub Copilot no VS Code_
+
+Tecnologias e tópicos abordados: **Visual Studio Code, GitHub Copilot, Agents, IAs Generativas, LLMs...**
+
+_# Entendendo o que é MCP (Model Context Protocol)_
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker MCP Catalog, .NET, ASP.NET Core, C#, Java, Node.js, Python, OpenAI, Linux...**
+
+---
 
 ![alt](img/vscode-taboao-h008.JPG)
 
