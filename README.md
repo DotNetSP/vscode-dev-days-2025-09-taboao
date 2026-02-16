@@ -1,7 +1,7 @@
 # vscode-dev-days-2025-09-taboao
 VS Code Dev Days em Taboão da Serra-SP.
 
-Fotos e informações da edição local do **VS Code Dev Days** em **Piracicaba-SP**, um evento que aconteceu no dia **11/10/2025 (sábado)**.
+Fotos e informações da edição local do **VS Code Dev Days** em **Taboão da Serra-SP**, um evento que aconteceu no dia **06/09/2025 (sábado)**.
 
 Palestrantes/Instrutores:
 - **Renato Groffe (Microsoft MVP, Docker Captain, APISec U Ambassador, MTAC)**
@@ -10,6 +10,8 @@ Palestrantes/Instrutores:
 - **Carlos Machel**
 - **Thamirys Gameiro (Microsoft MVP)**
 - **Laura de Alencar**
+
+Organizador: **Elton Bordim (Microsoft MVP)**
 
 Número de participantes: **25 pessoas**
 
