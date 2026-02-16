@@ -1,5 +1,4 @@
 # vscode-dev-days-2025-09-taboao
-VS Code Dev Days em Taboão da Serra-SP.
 
 Fotos e informações da edição local do **VS Code Dev Days** em **Taboão da Serra-SP**, um evento que aconteceu no dia **06/09/2025 (sábado)**.
 
