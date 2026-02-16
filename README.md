@@ -32,6 +32,12 @@ Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub 
 
 ---
 
+E tivemos ainda uma sessão prática com o **Workshop "Integre MCP com GitHub Copilot¨**.
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces...**
+
+---
+
 ![alt](img/vscode-taboao-h008.JPG)
 
 ![alt](img/vscode-taboao-h039.jpeg)
