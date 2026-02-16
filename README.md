@@ -16,8 +16,6 @@ Número de participantes: **25 pessoas**
 
 Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/DotNetSP/vs-code-dev-days-2025-09**
 
-Informações sobre o evento em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
-
 ---
 
 Apresentações que aconteceram durante o evento:
@@ -35,6 +33,12 @@ Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub 
 E tivemos ainda uma sessão prática com o **Workshop "Integre MCP com GitHub Copilot¨**.
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Python, Linux, GitHub Codespaces...**
+
+---
+
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
+Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
 
 ---
 
