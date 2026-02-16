@@ -1,9 +1,20 @@
 # vscode-dev-days-2025-09-taboao
 VS Code Dev Days em Taboão da Serra-SP.
 
+Fotos e informações da edição local do **VS Code Dev Days** em **Piracicaba-SP**, um evento que aconteceu no dia **11/10/2025 (sábado)**.
 
-Laura de Alencar
-Thamirys Gameiro
+Palestrantes/Instrutores:
+- **Renato Groffe (Microsoft MVP, Docker Captain, APISec U Ambassador, MTAC)**
+- **Milton Camara Gomes (Microsoft MVP, MTAC)**
+- **Alexandre Malavasi (Microsoft MVP, MTAC)**
+- **Carlos Machel**
+- **Thamirys Gameiro (Microsoft MVP)**
+- **Laura de Alencar**
+
+Número de participantes: **25 pessoas**
+
+Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/dev-pira/vs-code-dev-days-2025**
+
 
 Informações sobre o evento em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
 
