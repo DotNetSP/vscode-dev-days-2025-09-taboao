@@ -40,6 +40,8 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
 
+Local: **UniFECAF - Rua Avenida Vida Nova, 166 - Jardim Maria Rosa - Taboão da Serra-SP - CEP: 06764-045**
+
 ---
 
 ![alt](img/vscode-taboao-h008.JPG)
