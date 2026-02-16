@@ -14,7 +14,7 @@ Organizador: **Elton Bordim (Microsoft MVP)**
 
 Número de participantes: **25 pessoas**
 
-Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/dev-pira/vs-code-dev-days-2025**
+Conteúdos (slides + exercício) utilizados durante o evento: **https://github.com/DotNetSP/vs-code-dev-days-2025-09**
 
 
 Informações sobre o evento em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/elton-bordim_vscodedevdays-unifecaf-mvpbuzz-activity-7370884784887197696-IjUd)
